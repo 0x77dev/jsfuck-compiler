@@ -1,0 +1,13 @@
+{
+  "name": "jsfuck-compiler",
+  "version": "0.0.0",
+  "description": "An simple JSFuck JavaScript cryptor. https://jsfuck.com",
+  "main": "index.js",
+  "repository": "https://github.com/0x77dev/jsfuck-compiler.git",
+  "author": "Misha Marinenko <a0x77@icloud.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jsfuck": "^0.4.0"
+  }
+}
